@@ -1,0 +1,9 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+websockets==14.1
+pandas==2.2.3
+numpy==2.2.1
+ta==0.11.0
+pymongo==4.10.1
+# MetaTrader5 — install inside Wine's Python, not macOS native:
+#   wine python -m pip install MetaTrader5
